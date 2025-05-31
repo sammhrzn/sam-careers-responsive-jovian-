@@ -66,15 +66,18 @@ h1 {
 
 #description {
     font-size: 1.25rem;
+    margin-left: 13px;
 }
 
 #team {
     width: 100%;
+    margin-left: 25px;
+    margin-top: 7px;
 }
 
 #team-image {
     border-radius: 5px;
-    width: 100%;
+    width: 90%;
 }
 
 h2 {
@@ -89,6 +92,7 @@ h2 {
 
 #jobs-list {
     display: block;
+    margin: 0 9px 0 9px;
 }
 
 #jobs-table {
